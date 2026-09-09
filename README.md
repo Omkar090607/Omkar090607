@@ -42,35 +42,220 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building pro
 
 ---
 
-## 📌 Featured Projects
+## 🤖 AI & Generative AI
 
-Here are some of the projects I've worked on:
+* 🧠 Artificial Intelligence & Generative AI
+* 💬 Large Language Models (LLMs)
+* ✨ AI-powered applications
+* 🎙️ Voice-based AI assistants
+* 🔤 Natural Language Processing
+* 🔌 LLM API Integration
+* 🔄 Multi-model AI systems
+* ⚡ AI-powered automation
+* 🌐 AI + Web Application Integration
 
-| Project          | Description                       | Technologies        |
-| ---------------- | --------------------------------- | ------------------- |
-| 🚀 **Project 1** | Add your project description here | Python / JavaScript |
-| 🌐 **Project 2** | Add your project description here | HTML / CSS / JS     |
-| 💡 **Project 3** | Add your project description here | React / Node.js     |
-| 🧠 **Project 4** | Add your project description here | DSA / Python        |
+### AI Technologies
 
-> 🚧 More projects coming soon...
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
+
+---
+
+## ⚙️ Automation
+
+I'm interested in building systems that reduce repetitive work and make everyday tasks easier.
+
+* 🖥️ Windows Automation
+* 🎙️ Voice Command Automation
+* 🌐 Browser & Website Automation
+* 📧 Email Automation
+* 💬 Messaging Automation
+* 📁 File & Document Automation
+* 🎵 Media Automation
+* 🔗 API-based Automation
+* 🤖 AI-powered Automation
+* 🔄 Workflow Automation
+
+---
+
+## 🔌 APIs & Integrations
+
+* 🌐 REST APIs
+* 🔗 Web APIs
+* 🤖 Gemini API
+* 🧠 OpenAI API
+* 🦙 Ollama API
+* 🇮🇳 data.gov.in APIs
+* 📧 Gmail Integration
+* 💬 WhatsApp Integration
+* 🔄 WebSocket Communication
+* 📦 JSON-based APIs
+* 🔌 Third-party API Integrations
+
+---
+
+## 🗄️ Database & Data
+
+* 🐬 MySQL
+* 🪶 SQLite
+* 🗃️ Relational Databases
+* 🔄 CRUD Operations
+* 📊 Data Storage & Retrieval
+* 🔗 Database Integration
+* 📈 Data Management
+* 📁 CSV Data Processing & Export
+
+---
+
+## 📊 Data & Visualization
+
+* 📊 Interactive Dashboards
+* 📈 Data Visualization
+* 📉 Data Analysis
+* 📊 Chart.js
+* 💰 Budget & Spending Analysis
+* 🏛️ Ministry Performance Analysis
+* 🗺️ State-wise Data Visualization
+* 📋 Project Performance Analytics
+* ⏱️ Completion Timeline Analysis
+* ⚡ Project Efficiency Analysis
+
+---
+
+## 🔐 Cybersecurity
+
+I'm also interested in understanding cybersecurity and building applications with security in mind.
+
+* 🔒 Application Security
+* 🌐 Web Security Fundamentals
+* 🛡️ Security Analysis
+* 🔑 Authentication & Authorization
+* 👤 Session Management
+* 🔐 Secure Application Design
+* 🧩 Security Fundamentals
+* 🧪 Security Experimentation & Learning
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 OMIRA — AI Personal Assistant
+
+**OMIRA** is a Windows-based AI personal assistant designed to make computer interaction more natural through voice commands.
+
+### ✨ Features
+
+* 🎙️ Natural voice command interaction
+* 🌐 Multilingual voice support — **English, Hindi & Marathi**
+* 🧠 AI-powered question answering
+* 🔄 Multiple AI model support
+* 🤖 Google Gemini integration
+* 🔁 OpenAI & Ollama fallback support
+* 🖥️ Windows system controls
+* 📂 Application launching
+* 🌐 Website & browser opening
+* 📧 Gmail email automation
+* 💬 WhatsApp messaging with confirmation
+* 📄 Document summarization
+* 🌐 HTML website generation
+* 🎵 Music control
+* 🖥️ System-tray desktop mode
+* 🔌 Optional WebSocket status communication
+
+### 🧰 Technologies
+
+**Python • FastAPI • Google Gemini • OpenAI • Ollama • HTML • CSS • JavaScript • WebSockets • APIs • AI Automation**
+
+---
+
+## 🛡️ CyberSparks — Public Fund Tracking & Transparency Platform
+
+**CyberSparks** is a web-based public fund and government project tracking platform designed to improve transparency and make government project information easier to explore.
+
+### ✨ Features
+
+* 🏛️ Government project tracking
+* 💰 Allocated vs. spent budget tracking
+* 📊 Project completion percentage
+* 🔎 Project search and filtering
+* 🗺️ State-wise project information
+* 🏢 Ministry-wise analysis
+* 📋 National Scheme Explorer
+* 📅 Project timelines
+* 📈 Advanced analytics dashboards
+* 📊 Spending vs. completion analysis
+* 💰 Budget distribution analysis
+* ⚡ Project efficiency analysis
+* 🚨 Citizen issue reporting
+* 🔐 Admin authentication
+* 📱 OTP verification
+* 👤 Session management
+* 📁 CSV export
+* 🔗 Data.gov.in API integration
+* 💾 Local database fallback
+
+### 🧰 Technologies
+
+**Python • Flask • SQLite • HTML5 • CSS3 • JavaScript • Chart.js • REST APIs • CSV • Data Visualization**
+
+---
+
+## 🧩 Software Development Concepts
+
+* 🧱 Object-Oriented Programming
+* 🧮 Data Structures & Algorithms
+* 🧠 Problem Solving
+* 🔌 API Architecture
+* 🌐 Client-Server Architecture
+* 🗄️ Database Management
+* 🔐 Authentication & Authorization
+* 👤 Session Management
+* ⚠️ Error Handling
+* 🧩 Modular Programming
+* ⚙️ Automation Architecture
+* 🔗 Software Integration
+* 📊 Data Processing
+* 🚀 Application Development
 
 ---
 
 ## 🧠 Problem Solving
 
-I regularly practice **Data Structures & Algorithms** to improve my problem-solving and coding skills.
+I regularly work on improving my problem-solving skills through **Data Structures & Algorithms** and programming challenges.
 
-### Areas I'm working on:
+### Areas I'm Exploring
 
-* Arrays & Strings
+* Arrays
+* Strings
+* Hashing
 * Linked Lists
 * Stacks & Queues
-* Trees & Graphs
-* Recursion & Backtracking
-* Sorting & Searching
+* Trees
+* Graphs
+* Recursion
 * Dynamic Programming
+* Sorting & Searching
 * Greedy Algorithms
+* Sliding Window
+* Two Pointers
+* Binary Search
+* Time & Space Complexity
+
+---
+
+## 🌱 Currently Learning
+
+* 🧮 Advanced Data Structures & Algorithms
+* 🤖 Generative AI
+* 🧠 Large Language Models
+* 🔌 AI API Integration
+* ⚙️ Advanced Automation
+* 🌐 Full-Stack Development
+* 🔐 Application Security
+* 📊 Data Analysis & Visualization
+* ☁️ Cloud & Deployment
+* 🏗️ Software Architecture
 
 ---
 
@@ -78,9 +263,9 @@ I regularly practice **Data Structures & Algorithms** to improve my problem-solv
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Omkar090607&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Omkar090607&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar090607&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar090607&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -96,56 +281,60 @@ I regularly practice **Data Structures & Algorithms** to improve my problem-solv
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar090607&theme=tokyo-night&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Omkar090607/Omkar090607/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Achievements
 
-<p align="left">
+<div align="center">
 
-<a href="https://github.com/Omkar090607">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Omkar090607&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
-<a href="https://www.linkedin.com/in/omkar-awaze-6322103b1">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:omkarawaze1915@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/iam_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🚀 Build more real-world projects
+* 🚀 Build more real-world applications
 * 🧠 Strengthen Data Structures & Algorithms
+* 🤖 Build advanced AI-powered applications
+* ⚙️ Create useful automation systems
 * 🌐 Improve full-stack development skills
+* 🔐 Learn more about application security
+* ☁️ Explore cloud technologies
+* 📊 Work with real-world datasets
 * 🤝 Contribute to open-source projects
-* 📚 Learn new technologies
 * 💼 Prepare for software development opportunities
 
 ---
 
-## 💭 Developer Mindset
+## 💡 Developer Mindset
 
-> **"Code. Learn. Build. Improve. Repeat."**
+> **Build. Learn. Solve. Improve. Repeat.**
 
-I'm always open to learning, collaborating, and working on interesting projects.
+I believe the best way to learn technology is by building real projects, solving real problems, experimenting with new ideas, and continuously improving.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:omkarawaze1915@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Omkar090607-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Omkar090607)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Awaze-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omkar-awaze-6322103b1/)
+
+</div>
 
 ---
 
@@ -153,6 +342,6 @@ I'm always open to learning, collaborating, and working on interesting projects.
 
 ### ⭐ Thanks for visiting my profile!
 
-**Let's build something amazing together! 🚀**
+**Feel free to explore my repositories and connect with me.**
 
 </div>
