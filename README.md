@@ -279,27 +279,6 @@ I regularly work on improving my problem-solving skills through **Data Structure
 
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Omkar090607/Omkar090607/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Omkar090607&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
-
----
 
 ## 🎯 2026 Goals
 
