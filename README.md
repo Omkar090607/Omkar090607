@@ -271,15 +271,6 @@ I regularly work on improving my problem-solving skills through **Data Structure
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Omkar090607&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
 ## 🎯 2026 Goals
 
 * 🚀 Build more real-world applications
